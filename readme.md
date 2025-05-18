@@ -5,6 +5,7 @@
 ## 🧠 Wprowadzenie
 
 ### Implementacja w C++ kolejki priorytetowej na co najmniej 2 różne struktury danych oraz porównanie następujących operacji:
+
 • Dodawanie elementu.
 • Usuwanie elementu.
 • Zwracanie rozmiaru kolejki.
@@ -35,5 +36,10 @@ Projekt został wykonany przez:
 <br>
 <a href="https://matrox.dev">My site</a>
 <a href="https://github.com/matroxok">My GitHub</a>
+
+```
+g++ main.cpp PriorityQueueInHeap.cpp PriorityQueueInArray.cpp -o main
+.\main.exe
+```
 
 ---
